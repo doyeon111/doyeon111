@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-</p>
+</p> 
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
