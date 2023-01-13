@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon111&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/doyeon111/github-readme-stats) -->
 <!--![doyeon111's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon111&show_icons=true&theme=dracula)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon111)](https://github.com/doyeon111/github-readme-stats)
 </div>
 
 <p align="center">
