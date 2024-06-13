@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 <!--![doyeon111's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon111&show_icons=true&theme=dracula)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeon111&layout=compact)](https://github.com/doyeon111/github-readme-stats)
 </div>
-<div align="center">
-[![Doyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeon111)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyeon111&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
